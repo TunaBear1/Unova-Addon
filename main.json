@@ -1,0 +1,21 @@
+{
+	"id": "Unova",
+	"name": "Unova Addon",
+	"author": ["TunaBear"],
+	"description": "An add-on mod for Pokermon that adds Gen 5 Pokémon and challenges centered on them",
+	"prefix": "unova",
+	"main_file": "main.lua",
+	"priority": 21,
+	"badge_colour": "05DBFF",
+	"badge_text_colour": "ffffff",
+  "display_name": "Pokermon Unova",
+	"version": "1.0.0",
+	"dependencies": [
+			"Steamodded (>=1.0.0~BETA-1016c)",
+      "Lovely (>=0.7)",
+      "Pokermon (>=2.9.9-617a)"
+	],
+  "conflicts": [],
+	"provides": [],
+	"dump_loc": false 
+}
